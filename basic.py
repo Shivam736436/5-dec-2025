@@ -21,3 +21,5 @@ h="shivam"      # string
 i=True
 J=False         # boolean
 E =None         # none
+
+print("ab ye wala delte hoga kya ..bus yehi dekhna hai bhaya")
